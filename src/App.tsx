@@ -3,9 +3,14 @@ import Webcam from 'react-webcam';
 import { CheckCircle, Hand, Loader2, Play, Square, AlertTriangle } from 'lucide-react';
 
 const SignLabels = [
-  'Hello', 'Thank You', 'Yes', 'No', 'I Love You',
-  'Please', 'Sorry', 'Help', 'Good Morning', 'Good Night',
-  'Excuse Me', 'How are you', 'Nice to meet you', 'Goodbye', 'See you later'
+  "Hello",
+  "Thank You",
+  "Please",
+  "Goodbye",
+  "Yes",
+  "No",
+  "Love",
+  "Help"
 ];
 
 function App() {
